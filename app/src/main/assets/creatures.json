@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "firstName": "Blue",
+    "lastName": "Bird",
+    "nickname": "Blue",
+    "image": "creature_bird_blue_fly_1",
+    "planet": "Neptune"
+  },
+  {
+    "id": 2,
+    "firstName": "Cute",
+    "lastName": "Cow",
+    "nickname": "Cowie",
+    "image": "creature_cow_01",
+    "planet": "Mars"
+  },
+  {
+    "id": 3,
+    "firstName": "Fire",
+    "lastName": "Fox",
+    "nickname": "Foxie",
+    "image": "creature_head_fox",
+    "planet": "Jupiter"
+  },
+  {
+    "id": 4,
+    "firstName": "Purple",
+    "lastName": "Monster",
+    "nickname": "People-eater",
+    "image": "creature_monster_purple",
+    "planet": "Jupiter"
+  },
+  {
+    "id": 5,
+    "firstName": "Peaceful",
+    "lastName": "Pig",
+    "nickname": "Little Piggie",
+    "image": "creature_head_pig",
+    "planet": "Earth"
+  },
+  {
+    "id": 6,
+    "firstName": "Dozy",
+    "lastName": "Dog",
+    "nickname": "Dozy",
+    "image": "creature_dog_bone",
+    "planet": "Mars"
+  },
+  {
+    "id": 7,
+    "firstName": "Sassy",
+    "lastName": "Skunk",
+    "nickname": "Sassy",
+    "image": "creature_skunk",
+    "planet": "Mercury"
+  },
+  {
+    "id": 8,
+    "firstName": "Blissful",
+    "lastName": "Bear",
+    "nickname": "Bliss",
+    "image": "creature_bear_sleepy",
+    "planet": "Venus"
+  },
+  {
+    "id": 9,
+    "firstName": "Iced",
+    "lastName": "Cube",
+    "nickname": "Ice",
+    "image": "creature_app_whistle_1",
+    "planet": "Jupiter"
+  },
+  {
+    "id": 10,
+    "firstName": "Debonair",
+    "lastName": "Duck",
+    "nickname": "Debbie",
+    "image": "creature_duck_yellow_1",
+    "planet": "Uranus"
+  },
+  {
+    "id": 11,
+    "firstName": "Bashful",
+    "lastName": "Beetle",
+    "nickname": "Bashy",
+    "image": "creature_bug_insect_happy",
+    "planet": "Earth"
+  },
+  {
+    "id": 12,
+    "firstName": "Snarky",
+    "lastName": "Spider",
+    "nickname": "Snarky",
+    "image": "creature_bug_spider",
+    "planet": "Mars"
+  },
+  {
+    "id": 13,
+    "firstName": "Cagy",
+    "lastName": "Cat",
+    "nickname": "Cagy",
+    "image": "creature_cat_derp",
+    "planet": "Mercury"
+  },
+  {
+    "id": 14,
+    "firstName": "Deano",
+    "lastName": "Dino",
+    "nickname": "Deano",
+    "image": "creature_dino_01",
+    "planet": "Saturn"
+  },
+  {
+    "id": 15,
+    "firstName": "Fancy",
+    "lastName": "Frog",
+    "nickname": "Fancy",
+    "image": "creature_frog_hungry",
+    "planet": "Venus"
+  },
+  {
+    "id": 16,
+    "firstName": "Tom",
+    "lastName": "Tiger",
+    "nickname": "Tommy",
+    "image": "creature_head_tiger",
+    "planet": "Jupiter"
+  },
+  {
+    "id": 17,
+    "firstName": "Mysterious",
+    "lastName": "Monkey",
+    "nickname": "Mysty",
+    "image": "creature_monkey_happy",
+    "planet": "Saturn"
+  },
+  {
+    "id": 18,
+    "firstName": "Shady",
+    "lastName": "Slug",
+    "nickname": "Shady",
+    "image": "creature_monster_slug",
+    "planet": "Mercury"
+  },
+  {
+    "id": 19,
+    "firstName": "Yummy",
+    "lastName": "Yeti",
+    "nickname": "Yummy",
+    "image": "creature_monster_yeti_1",
+    "planet": "Uranus"
+  },
+  {
+    "id": 20,
+    "firstName": "Observing",
+    "lastName": "Owl",
+    "nickname": "Owlie",
+    "image": "creature_owl_attack_1",
+    "planet": "Neptune"
+  },
+  {
+    "id": 21,
+    "firstName": "Peppy",
+    "lastName": "Panda",
+    "nickname": "Peppy",
+    "image": "creature_panda_fun",
+    "planet": "Uranus"
+  },
+  {
+    "id": 22,
+    "firstName": "Picky",
+    "lastName": "Penguin",
+    "nickname": "Penny",
+    "image": "creature_penguin_plane",
+    "planet": "Mercury"
+  },
+  {
+    "id": 23,
+    "firstName": "Ritzy",
+    "lastName": "Rat",
+    "nickname": "Ritzy",
+    "image": "creature_rat",
+    "planet": "Saturn"
+  },
+  {
+    "id": 24,
+    "firstName": "Worldly",
+    "lastName": "Wolf",
+    "nickname": "Wolfie",
+    "image": "creature_wolf_crazy",
+    "planet": "Mars"
+  },
+  {
+    "id": 25,
+    "firstName": "Biff",
+    "lastName": "Bunny",
+    "nickname": "Biff",
+    "image": "creature_square_bunny",
+    "planet": "Venus"
+  }
+]
