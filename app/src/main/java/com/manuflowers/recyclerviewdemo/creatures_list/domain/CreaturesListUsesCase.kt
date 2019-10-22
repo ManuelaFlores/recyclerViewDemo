@@ -1,4 +1,4 @@
 package com.manuflowers.recyclerviewdemo.creatures_list.domain
 
-class CreaturesListUsesCase {
+class CreaturesListUsesCase(private val externalRepository: CreaturesRepository) {
 }

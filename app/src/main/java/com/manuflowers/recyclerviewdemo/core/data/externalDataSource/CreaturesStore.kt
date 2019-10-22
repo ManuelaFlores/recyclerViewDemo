@@ -1,10 +1,10 @@
-package com.manuflowers.recyclerviewdemo.core.data.local.externalfiles
+package com.manuflowers.recyclerviewdemo.core.data.externalDataSource
 
 import android.content.Context
 import android.util.Log
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
-import com.manuflowers.recyclerviewdemo.core.data.local.database.entity.CreatureEntity
+import com.manuflowers.recyclerviewdemo.core.data.localDataSource.database.entity.CreatureEntity
 import java.io.IOException
 
 object CreaturesStore {
@@ -24,6 +24,8 @@ object CreaturesStore {
     fun getCreatures() = creatureEntities
 
     fun getCreatureById(id: Int) = creatureEntities.firstOrNull { it.id == id }
+
+    fun getAllCreatures() = creatureEntities
 
     private fun loadJSONFromAsset(filename: String, context: Context): String? {
         var json: String? = null
