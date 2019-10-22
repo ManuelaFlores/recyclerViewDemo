@@ -3,8 +3,8 @@ package com.manuflowers.recyclerviewdemo.core.aplication
 import android.app.Application
 import android.content.Context
 import androidx.room.Room
-import com.manuflowers.recyclerviewdemo.core.data.local.database.RecyclerViewDemoDatabase
-import com.manuflowers.recyclerviewdemo.core.data.local.externalfiles.CreaturesStore
+import com.manuflowers.recyclerviewdemo.core.data.localDataSource.database.RecyclerViewDemoDatabase
+import com.manuflowers.recyclerviewdemo.core.data.externalDataSource.CreaturesStore
 
 class RecyclerViewDemo: Application() {
 

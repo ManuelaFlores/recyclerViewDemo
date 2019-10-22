@@ -1,4 +1,4 @@
-package com.manuflowers.recyclerviewdemo.core.data.local.database.entity
+package com.manuflowers.recyclerviewdemo.core.data.localDataSource.database.entity
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

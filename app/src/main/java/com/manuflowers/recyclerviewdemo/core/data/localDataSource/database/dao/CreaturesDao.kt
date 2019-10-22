@@ -1,8 +1,7 @@
-package com.manuflowers.recyclerviewdemo.core.data.local.database.dao
+package com.manuflowers.recyclerviewdemo.core.data.localDataSource.database.dao
 
-import androidx.lifecycle.LiveData
 import androidx.room.*
-import com.manuflowers.recyclerviewdemo.core.data.local.database.entity.CreatureEntity
+import com.manuflowers.recyclerviewdemo.core.data.localDataSource.database.entity.CreatureEntity
 
 @Dao
 interface CreaturesDao {
@@ -17,6 +16,6 @@ interface CreaturesDao {
     fun deleteCreature(creatureEntityEntity: CreatureEntity)
 
     @Query("SELECT * FROM creatures_table ORDER BY id DESC")
-    fun getAllProducts(): LiveData<List<CreatureEntity>>
+    fun getAllCreatures(): List<CreatureEntity>
 
 }

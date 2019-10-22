@@ -1,6 +1,6 @@
 package com.manuflowers.recyclerviewdemo.creatures_list.presentation
 
-import com.manuflowers.recyclerviewdemo.creatures_list.data.CreaturesListRepository
+import com.manuflowers.recyclerviewdemo.creatures_list.data.ExternalCreaturesRepository
 
-class CreaturesListViewModel(private val creaturesListRepository: CreaturesListRepository) {
+class CreaturesListViewModel(private val externalCreaturesRepository: ExternalCreaturesRepository) {
 }

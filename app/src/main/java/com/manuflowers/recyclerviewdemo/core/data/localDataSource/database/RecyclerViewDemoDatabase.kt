@@ -1,9 +1,9 @@
-package com.manuflowers.recyclerviewdemo.core.data.local.database
+package com.manuflowers.recyclerviewdemo.core.data.localDataSource.database
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
-import com.manuflowers.recyclerviewdemo.core.data.local.database.dao.CreaturesDao
-import com.manuflowers.recyclerviewdemo.core.data.local.database.entity.CreatureEntity
+import com.manuflowers.recyclerviewdemo.core.data.localDataSource.database.dao.CreaturesDao
+import com.manuflowers.recyclerviewdemo.core.data.localDataSource.database.entity.CreatureEntity
 
 @Database(
     entities = [CreatureEntity::class],
