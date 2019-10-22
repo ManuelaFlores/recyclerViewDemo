@@ -4,4 +4,6 @@ import com.manuflowers.recyclerviewdemo.core.data.localDataSource.database.entit
 
 interface CreaturesRepository {
     fun loadCreatureFromExternalFile() : List<CreatureEntity>
+
+    fun insertCreatureInDataBase(creatureEntity: CreatureEntity)
 }

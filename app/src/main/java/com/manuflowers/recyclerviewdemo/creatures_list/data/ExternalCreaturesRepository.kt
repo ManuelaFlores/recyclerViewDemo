@@ -8,4 +8,9 @@ class ExternalCreaturesRepository : CreaturesRepository {
     override fun loadCreatureFromExternalFile(): List<CreatureEntity> {
         return CreaturesStore.getAllCreatures()
     }
+
+    override fun insertCreatureInDataBase(creatureEntity: CreatureEntity) {
+
+    }
+
 }
